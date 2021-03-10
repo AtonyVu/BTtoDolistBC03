@@ -1,0 +1,1 @@
+export const API ='https://604214537f50e000173aba7c.mockapi.io/api/luan1/'; 
